@@ -1,5 +1,5 @@
 body {
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yIMBR7POTx7e_fjv9Nj0wLyFZ62bI15BlA&s);
+  background: url(https://i.pinimg.com/originals/7c/3c/d4/7c3cd4a118b8f03afe7908a706ba9e42.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,9 +13,3 @@ body {
   flex-direction: column;
 }
 
-.weather-box {
-  border: 1px solid white;
-  padding: 50px;
-  border-radius: 30px;
-  background-color: azure;
-}
